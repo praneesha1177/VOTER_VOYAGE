@@ -1,0 +1,20 @@
+# VOTER_VOYAGE
+# 1. Project Title: VOTER VOYAGE 
+
+# 2. About the Project- 
+We have made a voting system using the c language (c code). This code is a basic implementation of a voting system, which allows for adding candidates, allowing voters to cast their votes, and then displaying the results. It saves/loads data to/from a file for persistence.
+
+# 3. Key Features about the project -
+  - Candidate Management
+  - Voter Management
+  - Voting and Results
+  - Persistence
+
+  # 4. Structure of the program 
+    - Data Structures
+    - Global Variables
+    - Functions
+   # 5. Operations 
+     - Menu Options
+     - Error Handling
+     - File Operations
